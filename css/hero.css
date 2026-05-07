@@ -2,6 +2,23 @@
   background-color: #2e2f42;
 }
 
+.hero .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 188px 0;
+}
+
+.hero h1 {
+  max-width: 496px;
+  padding-bottom: 48px;
+}
+
+.hero button {
+  border-radius: 4px;
+  padding: 16px 32px;
+}
+
 .hero-title {
   color: #ffffff;
   text-align: center;

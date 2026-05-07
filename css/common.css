@@ -49,6 +49,11 @@ a {
   line-height: 1.5;
 }
 
+button {
+  line-height: 1.5;
+  border: none;
+}
+
 .sr-only {
   position: absolute;
   white-space: nowrap;
