@@ -1,3 +1,9 @@
+.features ul {
+  display: flex;
+  gap: 24px;
+}
+
 .features-skills {
   color: #2e2f42;
+  padding-bottom: 8px;
 }
