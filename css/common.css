@@ -60,6 +60,10 @@ button {
   border: none;
 }
 
+section {
+  padding: 120px 0;
+}
+
 .sr-only {
   position: absolute;
   white-space: nowrap;
@@ -77,8 +81,4 @@ button {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
-}
-
-section {
-  padding: 120px 0;
 }
