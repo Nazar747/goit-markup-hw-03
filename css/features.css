@@ -1,6 +1,10 @@
-.features ul {
+.features-list {
   display: flex;
   gap: 24px;
+}
+
+.features-item {
+  flex-basis: calc((100% - 72px) / 4);
 }
 
 .features-skills {
